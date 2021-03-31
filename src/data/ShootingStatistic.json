@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Eder Simon",
+    "country": "AUT",
+    "hits": 392,
+    "shots": 420,
+    "fireRate": 23.5
+  },
+  {
+    "name": "Schempp Simon",
+    "country": "GER",
+    "hits": 28,
+    "shots": 30,
+    "fireRate": 26.5
+  },
+  {
+    "name": "Tyshchenkp Artem",
+    "country": "UKR",
+    "hits": 121,
+    "shots": 130,
+    "fireRate": 26.5
+  },
+  {
+    "name": "Labastau Mikita",
+    "country": "BLR",
+    "hits": 102,
+    "shots": 110,
+    "fireRate": 26.4
+  },
+  {
+    "name": "Laegreid Sturla Holm",
+    "country": "NOR",
+    "hits": 397,
+    "shots": 420,
+    "fireRate": 29.5
+  },
+  {
+    "name": "Komatz David",
+    "country": "AUT",
+    "hits": 308,
+    "shots": 340,
+    "fireRate": 30
+  },
+  {
+    "name": "Fak Jakov",
+    "country": "SLO",
+    "hits": 381,
+    "shots": 420,
+    "fireRate": 33
+  },
+  {
+    "name": "Bakken Sivert",
+    "country": "NOR",
+    "hits": 27,
+    "shots": 30,
+    "fireRate": 27.5
+  },
+  {
+    "name": "Stegmayer Gabriel",
+    "country": "SWE",
+    "hits": 45,
+    "shots": 50,
+    "fireRate": 29.2
+  },
+  {
+    "name": "Eliseev Matvey",
+    "country": "RUS",
+    "hits": 45,
+    "shots": 50,
+    "fireRate": 33
+  },
+  {
+    "name": "Dovzan Miha",
+    "country": "SLO",
+    "hits": 265,
+    "shots": 300,
+    "fireRate": 27.5
+  },
+  {
+    "name": "Zemlicka Milan",
+    "country": "CZE",
+    "hits": 392,
+    "shots": 420,
+    "fireRate": 27.5
+  },
+  {
+    "name": "Flore Raul Antonio",
+    "country": "ROU",
+    "hits": 71,
+    "shots": 80,
+    "fireRate": 27.5
+  },
+  {
+    "name": "Buta George",
+    "country": "ROU",
+    "hits": 96,
+    "shots": 110,
+    "fireRate": 27.5
+  },
+  {
+    "name": "Kireyev Vladislav",
+    "country": "KAZ",
+    "hits": 61,
+    "shots": 70,
+    "fireRate": 25.5
+  },
+  {
+    "name": "Khalili Said",
+    "country": "RUS",
+    "hits": 122,
+    "shots": 140,
+    "fireRate": 26
+  },
+  {
+    "name": "Cisar Alex",
+    "country": "SLO",
+    "hits": 70,
+    "shots": 80,
+    "fireRate": 28.5
+  },
+  {
+    "name": "Okhotnykov Alexandr",
+    "country": "UKR",
+    "hits": 1,
+    "shots": 30,
+    "fireRate": 50
+  },
+  {
+    "name": "Gow Christian",
+    "country": "SWE",
+    "hits": 366,
+    "shots": 420,
+    "fireRate": 32.5
+  },
+  {
+    "name": "Zahkna Rene",
+    "country": "EST",
+    "hits": 157,
+    "shots": 180,
+    "fireRate": 33.5
+  },
+  {
+    "name": "Bjontegaard Erlend",
+    "country": "NOR",
+    "hits": 123,
+    "shots": 140,
+    "fireRate": 25.6
+  },
+  {
+    "name": "Pashchenkp Petr",
+    "country": "RUS",
+    "hits": 34,
+    "shots": 40,
+    "fireRate": 29.5
+  },
+  {
+    "name": "Jacquelin Emilienimon",
+    "country": "FRA",
+    "hits": 367,
+    "shots": 420,
+    "fireRate": 33.5
+  },
+  {
+    "name": "Rees Romar",
+    "country": "GER",
+    "hits": 228,
+    "shots": 260,
+    "fireRate": 29.9
+  },
+  {
+    "name": "Peifeer Rnd",
+    "country": "GER",
+    "hits": 299,
+    "shots": 340,
+    "fireRate": 30.5
+  },
+  {
+    "name": "Lesser Erik",
+    "country": "GER",
+    "hits": 313,
+    "shots": 360,
+    "fireRate": 35.5
+  }
+]
