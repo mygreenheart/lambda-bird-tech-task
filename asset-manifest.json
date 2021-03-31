@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lambda-bird-tech-task/static/css/main.d47bbb0e.chunk.css",
+    "main.js": "/lambda-bird-tech-task/static/js/main.f801b62c.chunk.js",
+    "main.js.map": "/lambda-bird-tech-task/static/js/main.f801b62c.chunk.js.map",
+    "runtime-main.js": "/lambda-bird-tech-task/static/js/runtime-main.a8e7db06.js",
+    "runtime-main.js.map": "/lambda-bird-tech-task/static/js/runtime-main.a8e7db06.js.map",
+    "static/js/2.07db0654.chunk.js": "/lambda-bird-tech-task/static/js/2.07db0654.chunk.js",
+    "static/js/2.07db0654.chunk.js.map": "/lambda-bird-tech-task/static/js/2.07db0654.chunk.js.map",
+    "index.html": "/lambda-bird-tech-task/index.html",
+    "static/css/main.d47bbb0e.chunk.css.map": "/lambda-bird-tech-task/static/css/main.d47bbb0e.chunk.css.map",
+    "static/js/2.07db0654.chunk.js.LICENSE.txt": "/lambda-bird-tech-task/static/js/2.07db0654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e7db06.js",
+    "static/js/2.07db0654.chunk.js",
+    "static/css/main.d47bbb0e.chunk.css",
+    "static/js/main.f801b62c.chunk.js"
+  ]
+}
